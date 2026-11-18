@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.4.0</title>
+      <pubDate>Wed, 18 Nov 2026 21:16:58 GMT</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Patch the SDK&amp;#x27;s HTML library so deeply nested messages can&amp;#x27;t crash&lt;/li&gt;&lt;li&gt;Harden message handling, fix error text and keyboard gaps, cut redraws&lt;/li&gt;&lt;li&gt;Lay out About Huddle as MailMate&amp;#x27;s, as MailMateJ does&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.4.0/Huddle-0.4.0.zip" length="24724374" type="application/octet-stream" sparkle:edSignature="0+J1T2hzlQtyNxFeRKkTkLkOUgZOb09EACgk55d0gWvuP8ONbYnnNso7MzTJY3fn++T9RsxYFCwQDw5LHG7GCQ==" />
+    </item>
+    <item>
       <title>Huddle 0.3.0</title>
       <pubDate>Wed, 18 Nov 2026 19:45:25 GMT</pubDate>
       <sparkle:version>49</sparkle:version>
