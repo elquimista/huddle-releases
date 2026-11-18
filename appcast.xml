@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.3.0</title>
+      <pubDate>Wed, 18 Nov 2026 19:45:25 GMT</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Add an add-reaction chip after a message&amp;#x27;s reactions&lt;/li&gt;&lt;li&gt;Keep the hover bar with its message, and redraw the add-reaction button&lt;/li&gt;&lt;li&gt;Add per-room notification settings&lt;/li&gt;&lt;li&gt;Fix a crash when a sidebar section goes while the pointer is on its header&lt;/li&gt;&lt;li&gt;Add resizing the IRC layout&amp;#x27;s names column, remembered per room&lt;/li&gt;&lt;li&gt;Add reviewing and signing out an account&amp;#x27;s devices&lt;/li&gt;&lt;li&gt;Stop the history indexer from bloating rooms on screen&lt;/li&gt;&lt;li&gt;Open rooms at their newest message: only count input aimed at them&lt;/li&gt;&lt;li&gt;Add room list sections, shared with Element&lt;/li&gt;&lt;li&gt;Add editing your profile and changing your password&lt;/li&gt;&lt;li&gt;Show a notification&amp;#x27;s room in its space&amp;#x27;s room list&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.3.0/Huddle-0.3.0.zip" length="24700050" type="application/octet-stream" sparkle:edSignature="Q2HzCJvnQi3/Ixm2Dssrzx/YDC8eN/vfwxyLTAVVwLhqeuXcIQpcL0uuvuTBmwtWK6Nlz6JFMaqPXovjSMTaAQ==" />
+    </item>
+    <item>
       <title>Huddle 0.2.0</title>
       <pubDate>Wed, 18 Nov 2026 13:57:45 GMT</pubDate>
       <sparkle:version>38</sparkle:version>
