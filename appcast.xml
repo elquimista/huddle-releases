@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.5.0</title>
+      <pubDate>Wed, 18 Nov 2026 22:02:55 GMT</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Add sending and receiving files of any kind&lt;/li&gt;&lt;li&gt;Keep the window coming back at launch, and reopen the last room&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.5.0/Huddle-0.5.0.zip" length="24783274" type="application/octet-stream" sparkle:edSignature="8BWMcAA6soyiZGpPru+MaeuDmk7SKBXKJS++rPESzJJlFMh2o7LsuiEM4WBW/orBoHTbHGy3D9kJFERac7b8BQ==" />
+    </item>
+    <item>
       <title>Huddle 0.4.0</title>
       <pubDate>Wed, 18 Nov 2026 21:16:58 GMT</pubDate>
       <sparkle:version>52</sparkle:version>
