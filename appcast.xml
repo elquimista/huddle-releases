@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.6.0</title>
+      <pubDate>Wed, 18 Nov 2026 22:36:28 GMT</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Add emoji verification, both ways&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.6.0/Huddle-0.6.0.zip" length="24852496" type="application/octet-stream" sparkle:edSignature="XhRjMvxZcf1FuRqSLuJMFrAnUpaJ3lp+cihmB98dTo5LTALLU7Wj3d+w0wllbHCY7liXBMbHnoXfVW6ErSSwCA==" />
+    </item>
+    <item>
       <title>Huddle 0.5.0</title>
       <pubDate>Wed, 18 Nov 2026 22:02:55 GMT</pubDate>
       <sparkle:version>54</sparkle:version>
