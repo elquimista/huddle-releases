@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.11.0</title>
+      <pubDate>Thu, 19 Nov 2026 22:05:52 GMT</pubDate>
+      <sparkle:version>75</sparkle:version>
+      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Add voice calls, with Element Call or the older one-to-one kind&lt;/li&gt;&lt;li&gt;Keep space tooltips from dropping out in a busy account&lt;/li&gt;&lt;li&gt;Stop a held reading place pulling the reader back as they scroll&lt;/li&gt;&lt;li&gt;Replace All Rooms with Home: chats and rooms outside spaces&lt;/li&gt;&lt;li&gt;Alert for the open room when Huddle&amp;#x27;s window is out of sight&lt;/li&gt;&lt;li&gt;Read the open room only while it&amp;#x27;s in front of you&lt;/li&gt;&lt;li&gt;Answer the pointer only in the window in front&lt;/li&gt;&lt;li&gt;Add New Section… to a space&amp;#x27;s menus&lt;/li&gt;&lt;li&gt;Move New Space to the foot of the space rail as a plain +&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.11.0/Huddle-0.11.0.zip" length="34600420" type="application/octet-stream" sparkle:edSignature="g5ae5c/wXldMF7QufTo0n/QgFlRU+Uohmrb3IZMiwc8YyEGw/IhofNhWO0ogkdGeYj+G2ppRJFb3cWBlhQDkBg==" />
+    </item>
+    <item>
       <title>Huddle 0.10.0</title>
       <pubDate>Thu, 19 Nov 2026 13:46:03 GMT</pubDate>
       <sparkle:version>66</sparkle:version>
