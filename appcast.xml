@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.9.0</title>
+      <pubDate>Thu, 19 Nov 2026 03:34:33 GMT</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Add typing indicators, synced with Element, and two-way sharing&lt;/li&gt;&lt;li&gt;Use curly apostrophes in all on-screen text&lt;/li&gt;&lt;li&gt;Show who is verified in Room Info, and whether a room is encrypted&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.9.0/Huddle-0.9.0.zip" length="25001478" type="application/octet-stream" sparkle:edSignature="+lW6erPiLSHcYvym7/LYgZwpYdXBp+8x9ziYZqDYTgH27r9YVI+ezVVom+dDHQ4Puc7e5SpGIWKPc1fQoO6bDQ==" />
+    </item>
+    <item>
       <title>Huddle 0.8.0</title>
       <pubDate>Thu, 19 Nov 2026 01:24:10 GMT</pubDate>
       <sparkle:version>59</sparkle:version>
