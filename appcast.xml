@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.8.0</title>
+      <pubDate>Thu, 19 Nov 2026 01:24:10 GMT</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Add Exclude unverified devices, and say why messages can&amp;#x27;t be read or sent&lt;/li&gt;&lt;li&gt;Warn about changed identities, mark doubtful messages, verify people&lt;/li&gt;&lt;li&gt;Ask the server how an identity reset is confirmed&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.8.0/Huddle-0.8.0.zip" length="24948774" type="application/octet-stream" sparkle:edSignature="NwGylVGhxQcv8NZDBUbPLSoGWGs/2b1K/fbbY9uBu1Y4A/ZgwTipRuM5fU6iDsbY2rVijLxqusN3SttyDEgHDA==" />
+    </item>
+    <item>
       <title>Huddle 0.7.0</title>
       <pubDate>Wed, 18 Nov 2026 23:09:08 GMT</pubDate>
       <sparkle:version>56</sparkle:version>
