@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 1.0.0</title>
+      <pubDate>Fri, 20 Nov 2026 22:46:01 GMT</pubDate>
+      <sparkle:version>110</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Build one app for Apple Silicon and Intel Macs&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v1.0.0/Huddle-1.0.0.zip" length="61680444" type="application/octet-stream" sparkle:edSignature="cl8+fZLTwVxrWc8vrKj0x/BKecLvzl2ggmx3Us+dw3UECrHXcWsqDx5z6l73SbXwZWsTuBcFyqzB0Vas1UPzAA==" />
+    </item>
+    <item>
       <title>Huddle 0.13.1</title>
       <pubDate>Fri, 20 Nov 2026 22:29:00 GMT</pubDate>
       <sparkle:version>109</sparkle:version>
