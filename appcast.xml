@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.13.1</title>
+      <pubDate>Fri, 20 Nov 2026 22:29:00 GMT</pubDate>
+      <sparkle:version>109</sparkle:version>
+      <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Show a direct chat&amp;#x27;s person in Room Info, and open pictures large&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.13.1/Huddle-0.13.1.zip" length="34996473" type="application/octet-stream" sparkle:edSignature="H11/xYJpBzU9Lc0OiKM6qp9IgrwnSaJUiBr97ftkxWGWF4OHoe1LHPpGEOY0RRVjKmLLumoZ3N0ZsdLqL4j9Dw==" />
+    </item>
+    <item>
       <title>Huddle 0.11.0</title>
       <pubDate>Thu, 19 Nov 2026 22:05:52 GMT</pubDate>
       <sparkle:version>75</sparkle:version>
