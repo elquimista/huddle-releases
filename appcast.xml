@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.13.3</title>
+      <pubDate>Sat, 21 Nov 2026 10:34:14 GMT</pubDate>
+      <sparkle:version>112</sparkle:version>
+      <sparkle:shortVersionString>0.13.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Fix typing, room selection, Settings and scrolling on macOS 13&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.13.3/Huddle-0.13.3.zip" length="62098857" type="application/octet-stream" sparkle:edSignature="WPG5k9e7j9CAGYvvCxiVG9R/D7FjsxepYplsmLHF8kzV9KnrQO+In/JkBuy7r1Z26luc+Em9i9D6Q+4Bup8SAA==" />
+    </item>
+    <item>
       <title>Huddle 0.13.2</title>
       <pubDate>Fri, 20 Nov 2026 23:54:02 GMT</pubDate>
       <sparkle:version>111</sparkle:version>
