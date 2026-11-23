@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 1.1.1</title>
+      <pubDate>Mon, 23 Nov 2026 13:57:50 GMT</pubDate>
+      <sparkle:version>1113</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Count build numbers from 1000, above the macOS 13 line&amp;#x27;s&lt;/li&gt;&lt;li&gt;Publish releases only to the public releases repository&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v1.1.1/Huddle-1.1.1.zip" length="61682335" type="application/octet-stream" sparkle:edSignature="Isas/Hpgs8TEqjKqq1y5WImPiMgMBDJPHIsw6wSfkKStAMkYs40RL46kvpxBkYRtNn8+wXfnuClrC284TjPOCw==" />
+    </item>
+    <item>
       <title>Huddle 1.1.0</title>
       <pubDate>Mon, 23 Nov 2026 04:23:10 GMT</pubDate>
       <sparkle:version>111</sparkle:version>
