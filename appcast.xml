@@ -17,6 +17,7 @@
       <sparkle:version>113</sparkle:version>
       <sparkle:shortVersionString>0.13.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:maximumSystemVersion>13.99</sparkle:maximumSystemVersion>
       <description>&lt;ul&gt;&lt;li&gt;Choose light or dark in Settings, and see Settings change at once&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.13.4/Huddle-0.13.4.zip" length="62115312" type="application/octet-stream" sparkle:edSignature="LFm0mM6N9s1AYPdaBTQ/JSaibpMIgtKMIuAk/7hv8RBXXVcDMsixQVBRAHx06Rvyu1/eu/ZrhL/l/StXAF1fCA==" />
     </item>
@@ -26,6 +27,7 @@
       <sparkle:version>112</sparkle:version>
       <sparkle:shortVersionString>0.13.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:maximumSystemVersion>13.99</sparkle:maximumSystemVersion>
       <description>&lt;ul&gt;&lt;li&gt;Fix typing, room selection, Settings and scrolling on macOS 13&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.13.3/Huddle-0.13.3.zip" length="62098857" type="application/octet-stream" sparkle:edSignature="WPG5k9e7j9CAGYvvCxiVG9R/D7FjsxepYplsmLHF8kzV9KnrQO+In/JkBuy7r1Z26luc+Em9i9D6Q+4Bup8SAA==" />
     </item>
@@ -35,6 +37,7 @@
       <sparkle:version>111</sparkle:version>
       <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:maximumSystemVersion>13.99</sparkle:maximumSystemVersion>
       <description>&lt;ul&gt;&lt;li&gt;Run on macOS 13&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.13.2/Huddle-0.13.2.zip" length="62098434" type="application/octet-stream" sparkle:edSignature="q/QiGU/5RW2Ggbfb2D98uyBdUkNc5Gu46JGZnYMKSCrj8HyXJV3846P49F0ik2lfsie42Z5F6H3SNX2vjKMvDw==" />
     </item>
