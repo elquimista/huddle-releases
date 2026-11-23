@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 1.1.0</title>
+      <pubDate>Mon, 23 Nov 2026 04:23:10 GMT</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Choose light or dark in Settings, whatever the Mac is set to&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v1.1.0/Huddle-1.1.0.zip" length="61682327" type="application/octet-stream" sparkle:edSignature="AzyIZJTFTWvgMBxIAcFE+Z08rR9xWu1THHAwjgovixVrLN/nQvX5VTbDR5QbjMjRpxPmf8qLuVv8WbWPvC4rAA==" />
+    </item>
+    <item>
       <title>Huddle 0.13.4</title>
       <pubDate>Mon, 23 Nov 2026 04:13:30 GMT</pubDate>
       <sparkle:version>113</sparkle:version>
