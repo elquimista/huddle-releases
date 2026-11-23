@@ -8,7 +8,7 @@
       <sparkle:version>1113</sparkle:version>
       <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;ul&gt;&lt;li&gt;Count build numbers from 1000, above the macOS 13 line&amp;#x27;s&lt;/li&gt;&lt;li&gt;Publish releases only to the public releases repository&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Check for Updates no longer offers the version made for macOS 13&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v1.1.1/Huddle-1.1.1.zip" length="61682335" type="application/octet-stream" sparkle:edSignature="Isas/Hpgs8TEqjKqq1y5WImPiMgMBDJPHIsw6wSfkKStAMkYs40RL46kvpxBkYRtNn8+wXfnuClrC284TjPOCw==" />
     </item>
     <item>
