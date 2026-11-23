@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 1.3.0</title>
+      <pubDate>Mon, 23 Nov 2026 23:32:23 GMT</pubDate>
+      <sparkle:version>1117</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Change a space&amp;#x27;s name, topic and picture from its page&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v1.3.0/Huddle-1.3.0.zip" length="61778525" type="application/octet-stream" sparkle:edSignature="8FKv77aPYpmaDBqfcthnWez3mComJMUqrI+myOU8q0qL7JIlTrpk769O8vQmlkoPmevzpKt2+YgrR8eWMoNlCg==" />
+    </item>
+    <item>
       <title>Huddle 0.13.6</title>
       <pubDate>Mon, 23 Nov 2026 20:09:27 GMT</pubDate>
       <sparkle:version>118</sparkle:version>
