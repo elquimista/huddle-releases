@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 1.2.0</title>
+      <pubDate>Mon, 23 Nov 2026 18:25:15 GMT</pubDate>
+      <sparkle:version>1115</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;React to a message, or mark its room read, from its notification&lt;/li&gt;&lt;li&gt;Switch spaces without flicker, with pictures in place at once&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v1.2.0/Huddle-1.2.0.zip" length="61700367" type="application/octet-stream" sparkle:edSignature="Pt1Y4LFsyOnk/CxbTWP2bllHFjZ4E/Eoz9JIufEWxPbRkEM1B6PRV9ai1UJEVcPQlPSfZ5zYUgTwpkReR1r+Bw==" />
+    </item>
+    <item>
       <title>Huddle 0.13.5</title>
       <pubDate>Mon, 23 Nov 2026 17:36:33 GMT</pubDate>
       <sparkle:version>116</sparkle:version>
