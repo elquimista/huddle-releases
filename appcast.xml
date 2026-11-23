@@ -3,6 +3,16 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.13.5</title>
+      <pubDate>Mon, 23 Nov 2026 17:36:33 GMT</pubDate>
+      <sparkle:version>116</sparkle:version>
+      <sparkle:shortVersionString>0.13.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:maximumSystemVersion>13.99</sparkle:maximumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Ask for the microphone before a call, so macOS 13 lets calls use it&lt;/li&gt;&lt;li&gt;Offer this line&amp;#x27;s releases to macOS 13 only&lt;/li&gt;&lt;li&gt;Publish releases only to the public releases repository&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.13.5/Huddle-0.13.5.zip" length="62116200" type="application/octet-stream" sparkle:edSignature="q210iXBwKFuJ0tkdj5azJTb4PBbIKOyfF1rnXlD+zdeJsbV3iHWarraB5edHdPT19LIayrAcLd+cPPNUsrJMDA==" />
+    </item>
+    <item>
       <title>Huddle 1.1.1</title>
       <pubDate>Mon, 23 Nov 2026 13:57:50 GMT</pubDate>
       <sparkle:version>1113</sparkle:version>
