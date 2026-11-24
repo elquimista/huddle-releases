@@ -3,6 +3,16 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.13.8</title>
+      <pubDate>Tue, 24 Nov 2026 01:59:15 GMT</pubDate>
+      <sparkle:version>120</sparkle:version>
+      <sparkle:shortVersionString>0.13.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:maximumSystemVersion>13.99</sparkle:maximumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Name who wrote the newest message in group direct chats&amp;#x27; previews&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.13.8/Huddle-0.13.8.zip" length="62189985" type="application/octet-stream" sparkle:edSignature="H7yV6S/DxuZFucpfoUbEHUILFp/dOiogGs8Wv2+Pm/GUMkNaY8ZJLKpUwitt/p5hwabzP8fG3s/ZKxDTioYIDw==" />
+    </item>
+    <item>
       <title>Huddle 0.13.7</title>
       <pubDate>Tue, 24 Nov 2026 00:31:14 GMT</pubDate>
       <sparkle:version>119</sparkle:version>
