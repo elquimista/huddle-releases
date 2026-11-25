@@ -3,6 +3,16 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.13.12</title>
+      <pubDate>Wed, 25 Nov 2026 17:14:59 GMT</pubDate>
+      <sparkle:version>133</sparkle:version>
+      <sparkle:shortVersionString>0.13.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:maximumSystemVersion>13.99</sparkle:maximumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Read a room on the first visit, and on coming back to it&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.13.12/Huddle-0.13.12.zip" length="62472167" type="application/octet-stream" sparkle:edSignature="eVdoODVgPM50ZcRUyUiXvZ0D/GSOpzKm3ZcdKHY/EsdBhJGl73rnzrp/MHC4PkMIkl/JJ7lhjpYVtUKsXmQyDg==" />
+    </item>
+    <item>
       <title>Huddle 1.4.2</title>
       <pubDate>Wed, 25 Nov 2026 14:51:51 GMT</pubDate>
       <sparkle:version>1131</sparkle:version>
