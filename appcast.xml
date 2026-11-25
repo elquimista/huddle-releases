@@ -3,6 +3,16 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 0.13.11</title>
+      <pubDate>Wed, 25 Nov 2026 03:06:23 GMT</pubDate>
+      <sparkle:version>131</sparkle:version>
+      <sparkle:shortVersionString>0.13.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:maximumSystemVersion>13.99</sparkle:maximumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Land on a message gone to, and move only by pictures above what&amp;#x27;s read&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v0.13.11/Huddle-0.13.11.zip" length="62460758" type="application/octet-stream" sparkle:edSignature="HvJC+rB7I+LiaIjM6CBkfmXy6zEpYx9XPBoESB6Rhv/AWk+RsbCO9fSYl6XBsiPzM/2p4YSYWtGfH1FPNRo0CA==" />
+    </item>
+    <item>
       <title>Huddle 1.4.1</title>
       <pubDate>Wed, 25 Nov 2026 02:48:55 GMT</pubDate>
       <sparkle:version>1130</sparkle:version>
