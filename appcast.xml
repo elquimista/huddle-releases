@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 1.4.0</title>
+      <pubDate>Wed, 25 Nov 2026 01:16:26 GMT</pubDate>
+      <sparkle:version>1129</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Show pinned messages in full, with more ways to them and a clearer banner&lt;/li&gt;&lt;li&gt;Add Media and Files: a room&amp;#x27;s images, videos, audio, PDFs and files&lt;/li&gt;&lt;li&gt;Keep the room list&amp;#x27;s hover wash on the row the pointer is on, and only there&lt;/li&gt;&lt;li&gt;Fit Settings ▸ Appearance&amp;#x27;s message preview to the messages it shows&lt;/li&gt;&lt;li&gt;Ring incoming calls with the Mac&amp;#x27;s &amp;quot;Opening&amp;quot; ringtone&lt;/li&gt;&lt;li&gt;Ring back while a call rings the other person, and say so in the room list&lt;/li&gt;&lt;li&gt;Don&amp;#x27;t jump back to a stale place after older rows are drawn above&lt;/li&gt;&lt;li&gt;Keep the reading place as older messages are drawn above while scrolling&lt;/li&gt;&lt;li&gt;Reopen a room where it was left, scrolled up through its history&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v1.4.0/Huddle-1.4.0.zip" length="62023722" type="application/octet-stream" sparkle:edSignature="uHdFnNKr4W/x7/wj1T8eJy9b3y1q+ELjO3fwWrcuLLdW3dGV68gpfCOlqLtzKSTkFg0GElBh9FSZ55KnoGC0Dw==" />
+    </item>
+    <item>
       <title>Huddle 0.13.9</title>
       <pubDate>Tue, 24 Nov 2026 04:37:40 GMT</pubDate>
       <sparkle:version>122</sparkle:version>
