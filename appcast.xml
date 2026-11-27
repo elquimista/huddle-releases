@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 1.5.0</title>
+      <pubDate>Fri, 27 Nov 2026 20:03:32 GMT</pubDate>
+      <sparkle:version>1145</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Threads: a reply in a thread stays unread until you read that thread, even after you&amp;#x27;ve read newer messages in the room. A room whose only unread messages are in threads shows a threads badge in the room list, and the thread&amp;#x27;s notification stays until it&amp;#x27;s read. Reading a thread no longer marks the room&amp;#x27;s other messages as read.&lt;/li&gt;&lt;li&gt;Calls: macOS&amp;#x27;s own sounds now mark how a call goes: the busy tone when the person you call declines or doesn&amp;#x27;t answer, FaceTime&amp;#x27;s chime when a call ends, and a short sound when someone joins or leaves a room&amp;#x27;s call.&lt;/li&gt;&lt;li&gt;Calls in rooms, not only direct chats, now connect.&lt;/li&gt;&lt;li&gt;Pictures, videos and GIFs download by themselves only when your server says they&amp;#x27;re small enough, and very large pictures wait for a click, so a picture can&amp;#x27;t take gigabytes of memory.&lt;/li&gt;&lt;li&gt;Drafts are kept encrypted on this Mac. Settings &amp;gt; Notifications &amp;gt; Show message previews can keep message text out of notifications, which macOS stores outside Huddle&amp;#x27;s encryption.&lt;/li&gt;&lt;li&gt;Settings &amp;gt; Privacy &amp;gt; Use matrix.org to help calls connect: turn it off and matrix.org no longer sees your IP address when your server can&amp;#x27;t relay a call.&lt;/li&gt;&lt;li&gt;Long conversations no longer pause as each message arrives.&lt;/li&gt;&lt;li&gt;Media and Files stops searching back through a room once nothing more turns up, with Look Further Back to keep going.&lt;/li&gt;&lt;li&gt;Signing in shows Huddle&amp;#x27;s own address on your server&amp;#x27;s consent page, and cancelling there says you&amp;#x27;re not signed in.&lt;/li&gt;&lt;li&gt;The call window runs only Element Call&amp;#x27;s own page and code.&lt;/li&gt;&lt;li&gt;Settings says things in fewer words.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v1.5.0/Huddle-1.5.0.zip" length="62301296" type="application/octet-stream" sparkle:edSignature="mRPaCjqTjtvy5pF2Q7L0+J1yw70SVOITcDGPAmXMtluxZISdJ/I6brCRJtA7iFZNC3SXAIYXmgjsPjPIKh6bAQ==" />
+    </item>
+    <item>
       <title>Huddle 0.13.13</title>
       <pubDate>Fri, 27 Nov 2026 02:33:36 GMT</pubDate>
       <sparkle:version>136</sparkle:version>
