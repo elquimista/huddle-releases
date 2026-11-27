@@ -3,6 +3,15 @@
   <channel>
     <title>Huddle</title>
     <item>
+      <title>Huddle 1.4.3</title>
+      <pubDate>Fri, 27 Nov 2026 02:32:57 GMT</pubDate>
+      <sparkle:version>1135</sparkle:version>
+      <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;This update closes ways a server, or someone in one of your rooms, could mislead you or get in your way. Updating is recommended.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A message built to freeze Huddle for a minute or more no longer does.&lt;/li&gt;&lt;li&gt;When two people in a room go by the same name, or names that look the same, each now shows their Matrix ID too, as in Element. Names can no longer use hidden characters to read as something else, stack accents over other lines, or show nothing at all.&lt;/li&gt;&lt;li&gt;Devices: a device is shown as Verified only once this Mac has checked its signatures itself. A server can no longer make a device of its own look verified.&lt;/li&gt;&lt;li&gt;A link whose text names a different address from where it goes now asks before opening, wherever that address is in the text.&lt;/li&gt;&lt;li&gt;Your own messages are marked if one was sent unencrypted into an encrypted room, or from a device you don&amp;#x27;t know, as a server could pass such a message off as yours.&lt;/li&gt;&lt;li&gt;Opening an app, script, installer, disk image or configuration profile sent to you asks first.&lt;/li&gt;&lt;li&gt;Signing in works only over a secure connection (HTTPS), except to a server on this Mac.&lt;/li&gt;&lt;li&gt;Calls ring for two minutes at most, and the older kind of call rings only in a chat of two.&lt;/li&gt;&lt;li&gt;Future updates are checked against Huddle&amp;#x27;s signing key before they are even unpacked.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/elquimista/huddle-releases/releases/download/v1.4.3/Huddle-1.4.3.zip" length="62083449" type="application/octet-stream" sparkle:edSignature="5M0ZVZYjTadDAc4jsj5N7w3ia9sD5pSVNrs8YBz0D85+2RKlioxiN4FO8XW2b2LtH/MK0hPapEhhO9sO+gpDAg==" />
+    </item>
+    <item>
       <title>Huddle 0.13.12</title>
       <pubDate>Wed, 25 Nov 2026 17:14:59 GMT</pubDate>
       <sparkle:version>133</sparkle:version>
